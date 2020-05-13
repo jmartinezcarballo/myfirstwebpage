@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://serene-kalam-5b7a63.netlify.app/"
 languageCode = "en-us"
 title = "My first webpage"
-theme = "ananke"
+theme = "sodium"

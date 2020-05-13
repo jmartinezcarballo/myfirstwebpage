@@ -1,0 +1,22 @@
+{
+        "brand" : "Sodium Theme",
+        "logo" : "ltd_ec_1000_amber.jpg",
+        "links" : [
+          {
+            "title" : "Home",
+            "href" : ""
+          },
+          {
+            "title" : "Sección 1",
+            "href" : "blog"
+          },
+          {
+            "title" : "Sección 2",
+            "href" : "work"
+          },
+          {
+            "title" : "Sección 3",
+            "href" : "#contact"
+          }
+        ]
+      }

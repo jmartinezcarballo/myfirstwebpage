@@ -1,0 +1,9 @@
+{
+        "title" : "Landing of my very first webpage",
+        "description" : "This is just a simply test. Get in touch for new features in the near future",
+        "image" : "misc.jpeg",
+        "button" : {
+          "text" : "Get In Touch",
+          "href" : "/#contact"
+        }
+      }
