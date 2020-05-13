@@ -1,0 +1,21 @@
+{
+        "title" : "Mi comparativa",
+        "description" : "Compara entre diferentes modelos según tu rango de precio",
+        "content" : [
+          {
+            "icon" : "bell",
+            "title" : "Rango 1",
+            "description" : "Para presupuestos ajustados"
+          },
+          {
+            "icon" : "bell",
+            "title" : "Rango 2",
+            "description" : "calidad/precio lo más ajustado posible sin excederme demasiado"
+          },
+          {
+            "icon" : "bell",
+            "title" : "Rango 3",
+            "description" : "Dispongo de un buen prespuesto y quiero buen material aunque sea un poco más caro"
+          }
+        ]
+      }
